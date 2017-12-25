@@ -1,3 +1,12 @@
+//---------------------------------------------------------------
+//Copyright (c) 2017 Erdong Guo
+//---------------------------------------------------------------
+//===============================================================
+//Erdong Guo - Created: 5th May 2017
+//
+//
+//
+//===============================================================
 void initializeInitvec(int edges, double *initvec);
 void mesgePassing(int *order, int *ptr, double **H, int **nn, double **probMtrx, int NN);
 void creatNBMatrx(int **NB, int **nn, int *order, int *ptr, int NN, int edges);
